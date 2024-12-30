@@ -21,5 +21,5 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **useState & useEffect**: Para gerenciar o estado da aplicação e efeitos (como o preenchimento do formulário de edição).
 
 ## Tela de exemplo
-![Imagem exemplo](./assets/exemplo.png)
+![Imagem](src/assets/exemplo.png)
 
