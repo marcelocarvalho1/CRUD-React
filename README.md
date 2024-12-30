@@ -18,7 +18,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - **React**: Para criar interfaces dinâmicas e interativas.
 - **Styled Components**: Para estilizar os componentes de forma modular e reutilizável.
-- **useState & useEffect**: Para gerenciar o estado da aplicação e efeitos (como o preenchimento do formulário de edição).
 
 ## Tela de exemplo
 ![Imagem](src/assets/exemplo.png)
