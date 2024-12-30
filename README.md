@@ -1,5 +1,5 @@
 
-# Tarefa de App
+# Gerenciador App
 
 Este projeto é uma **aplicação de gerenciamento de tarefas** desenvolvida com **React**. Ele permite que os usuários adicionem, editem e excluam tarefas com facilidade, sendo ideal para quem deseja controlar suas atividades diárias de forma simples e eficiente.
 
